@@ -13,11 +13,11 @@
 <a href="https://www.linkedin.com/in/prajwalkrishna/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prajwalkrishna" height="30" width="40" /></a>
 </p>
 
-- 🔭 I’m currently working on **ML and DL** projects
+- 🔭 I’m currently working on **End-to-End Data Science** projects
 
-- 🌱 I’m currently learning **Data Science, Data Analytics**
+- 🌱 I’m currently learning **Data Science, Machine Learning for Operations(MLOps)**
 
-- 💬 Ask me about **DataScience,Analytics,Ml,Dl,Web dev**
+- 💬 Ask me about **DataScience, Analytics, ML, DL, Web dev**
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <h3 align="left">Languages and Tools:</h3>
