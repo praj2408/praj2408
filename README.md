@@ -11,7 +11,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalkrishna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prjwl_krishna) 
 
 
-🔭 I’m currently working on End to end ml projects<br>👯 I’m looking to collaborate on ml projects<br>🤝 I’m looking for help with mlops tools<br>🌱 I’m currently learning deep learning and statistical analysis<br>💬 Ask me about Data Science, ML, and DL<br>
+🔭 I’m currently working on End to end ml projects<br>👯 I’m looking to collaborate on NLP projects<br>🤝 I’m looking for help with mlops tools<br>🌱 I’m currently learning deep learning and statistical analysis<br>💬 Ask me about Data Science, ML, and DL<br>
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💻 Tech Stack:
