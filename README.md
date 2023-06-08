@@ -28,4 +28,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=praj2408&icon=5&color=3)](https://visitcount.itsvg.in)
     
-A data scientist is a wizard of statistical analysis and machine learning techniques, who can transform raw data into valuable insights, create predictive models to forecast future trends, and help organizations make informed decisions to gain a competitive advantage in the market.
