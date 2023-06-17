@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
-    <h1 align="center">Hi 👋, I'm Prajwal K</h1>
+    <h1 align="center">Hi 👋, I'm Prajwal Krishna</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalkrishna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prjwl_krishna)   
 
