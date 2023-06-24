@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <body>
-    <h1 align="center">Hi 👋, I'm Prajwal Krishna</h1>
+    <h1 align="center">Hi 👋, I'm Prajwal Krishna (MrPark)</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalkrishna/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Prjwl_krishna)   
 
 
-🔭 I’m currently working on Machine Learning Projects<br>👯 looking to collaborate on NLP and langchain based projects<br>🤝 I’m looking for help with MLOps tools like MLFlow and CircleCi<br>🌱 I’m currently learning deep learning and Langchain<br>💬 Ask me about Data Science, ML, DL, etc.<br>
+🔭 I’m currently working on Machine Learning Projects and<br>👯 looking to collaborate on NLP and langchain-based projects<br>🤝 I’m looking for help with MLOps tools like MLFlow and CircleCi<br>🌱 Currently learning deep-learning technologies and Langchain<br>💬 Ask me about Data Science, Machine Learning, NLP, etc.<br>
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💻 Tech Stack:
