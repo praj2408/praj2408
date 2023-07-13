@@ -54,14 +54,15 @@
 ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=flat&logo=Coursera&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=praj2408&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=praj2408&theme=vue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=praj2408&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-    
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=praj2408&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praj2408&theme=vue)
+
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=praj2408&icon=5&color=3)](https://visitcount.itsvg.in)
-[](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{praj2408}1212%2Fhit-counter)
-    
+[![](https://visitcount.itsvg.in/api?id=praj2408&icon=5&color=3)](https://visitcount.itsvg.in)    
+![](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpraj24081212%2Fhit-counter)
