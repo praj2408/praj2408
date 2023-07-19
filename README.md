@@ -15,7 +15,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/prajwal2408)
 
 
-🔭 I’m currently working on Machine Learning Projects and<br>👯 looking to collaborate on NLP and langchain-based projects<br>🤝 I’m looking for help with MLOps tools like MLFlow and CircleCi<br>🌱 Currently learning deep-learning technologies and Langchain<br>💬 Ask me about Data Science, Machine Learning, NLP, etc.<br>
+🔭 I’m currently working on Machine Learning Projects and<br>👯 I’m looking for help with MLOps tools like MLFlow and CircleCi<br>🌱 Currently learning deep-learning technologies and Langchain<br>💬 Ask me about Data Science, Machine Learning, NLP, etc.<br>
 <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 # 💻 Tech Stack:
