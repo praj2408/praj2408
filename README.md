@@ -16,7 +16,7 @@
 
 
 🔭 I’m currently working on Machine Learning Projects and<br>
-👯 I’m looking for help with MLOps tools like MLFlow and CircleCi<br>
+👯 I’m looking for help with MLOps tools like MLFlow, ZenMl and CircleCi<br>
 🌱 Currently learning Deep-Learning technologies<br>
 💬 Ask me about Data Science, Machine Learning, NLP, etc.<br>
 
