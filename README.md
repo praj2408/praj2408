@@ -62,9 +62,9 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=default&hide_border=false)<br/> -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats) -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats)-->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=praj2408&mode=weekly)](https://git.io/streak-stats)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=praj2408&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praj2408&theme=vue)
