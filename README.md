@@ -14,7 +14,7 @@
 <p>
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 </p>
-<p>Highlights: 600+ hours of coursework, 10 coding assignments, 10+ projects (EDA, ML, DL, MlOps)
+<p>Highlights: <b>600+ hours</b> of coursework, 10 coding assignments, 10+ projects (EDA, ML, DL, MlOps)
 </p> 
 
 
@@ -22,7 +22,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
   
 - 🌱 I’m currently learning **Deep Learning**
   
-- 👯 I’m looking for help with MLOps tools like MLFlow, AWS and Github Actions
+- 👯 I’m looking for help with MLOps tools like **MLFlow, AWS and Github Actions**
   
 - 💬 Ask me about **Data Science, Machine Learning, NLP, Data Analysis, Python**
   
