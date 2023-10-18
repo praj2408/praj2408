@@ -73,6 +73,4 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 
 
 
----
-
 [![](https://visitcount.itsvg.in/api?id=praj2408&icon=5&color=3)](https://visitcount.itsvg.in)    
