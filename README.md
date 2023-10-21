@@ -18,7 +18,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 </p> 
 
 
-- 🔭 I’m currently working on Machine Learning Projects
+- 🔭 I’m currently working on **Machine Learning Projects**
   
 - 🌱 I’m currently learning **Deep Learning**
   
