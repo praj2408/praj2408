@@ -14,7 +14,7 @@
 <p>
 Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
 </p>
-<p>Highlights: <b>600+ hours</b> of coursework, <b>10 coding assignments</b>, <b>10+ projects</b> (EDA, ML, DL, MlOps)
+<p>Highlights: <b>750+ hours</b> of coursework, <b>10 coding assignments</b>, <b>10+ projects</b> (EDA, ML, DL, MlOps)
 </p> 
 
 
