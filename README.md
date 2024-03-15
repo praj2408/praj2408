@@ -18,11 +18,11 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 </p> 
 
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects**
   
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Deep Learning and LLMs**
   
-- 👯 I’m looking for help with MLOps tools like **MLFlow, AWS and Github Actions**
+- 👯 I’m looking for help with technologies like **RAG, LLMOps and Vector Databases**
   
 - 💬 Ask me about **Data Science, Machine Learning, NLP, Data Analysis, Python**
   
