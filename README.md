@@ -18,15 +18,17 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 </p> 
 
 
-- 🔭 I’m currently working on **Deep Learning Projects**
+- 🔭 I’m currently working on **Deep Learning Projects** and I am really passionate about Artificial Intelligence, Machine Learning and Natural Language Processing & Data Analytics.
   
-- 🌱 I’m currently learning **Deep Learning and LLMs**
+- 🌱 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
   
 - 👯 I’m looking for help with technologies like **RAG, LLMOps and Vector Databases**
   
 - 💬 Ask me about **Data Science, Machine Learning, NLP, Data Analysis, Python**
+- 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
+* 📝 Portfolio Website --> https://prajwalkrishna.netlify.app/
   
-- 📫 How to reach me: -> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prajwalkrishna/) 
+- 📫 How to reach me: --> 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/park2408)
 
