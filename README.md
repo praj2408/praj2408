@@ -18,9 +18,7 @@ Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine 
 </p> 
 
 
-- 🔭 I’m currently working on **Deep Learning Projects** and I am really passionate about Artificial Intelligence, Machine Learning and Natural Language Processing & Data Analytics.
-  
-- 🌱 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+- 🔭 I’m currently working on **Deep Learning Projects** and Learning **LLMs** 
   
 - 👯 I’m looking for help with technologies like **RAG, LLMOps and Vector Databases**
   
