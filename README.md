@@ -10,21 +10,16 @@
 
 
 
-<p>I Have completed Data Science and Machine Learning Bootcamp by Ineuron </p>
-<p>
-Courses: Python Programming, Statistics, Data Analysis & Visualization, Machine Learning, SQL & Analytics
-</p>
-<p>Highlights: <b>950+ hours</b> of coursework, <b>20 coding assignments</b>, <b>20+ projects</b> (EDA, ML, DL, MlOps)
-</p> 
+<p>A Passionate Developer with a keen interest in Artificial Intelligence and Machine Learning. </p>
+<p>Welcome to my GitHub profile, where I share my projects, ideas, and contributions to the open-source community</p> 
 
 
-- 🔭 I’m currently working on **Deep Learning Projects** and Learning **LLMs** 
-  
-- 👯 I’m looking for help with technologies like **RAG, LLMOps and Vector Databases**
+- 🔭 I’m currently working on **Generative Ai Projects** and **Deep Learning.** 
   
 - 💬 Ask me about **Data Science, Machine Learning, NLP, Data Analysis, Python**
 - 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
 * 📝 Portfolio Website --> https://prajwalkrishna.netlify.app/
+* 📝 Blogs --> https://medium.com/@praj2408
   
 - 📫 How to reach me: --> 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)
