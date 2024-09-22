@@ -10,8 +10,7 @@
 
 
 
-<p>A Passionate Developer with a keen interest in Artificial Intelligence and Machine Learning. </p>
-<p>Welcome to my GitHub profile, where I share my projects, ideas, and contributions to the open-source community</p> 
+<p>Hi! I'm an AI Engineer with a passion for developing cutting-edge machine learning solutions and optimizing AI models for real-world impact. With hands-on experience in image generation, natural language processing, and model deployment, I specialize in building intelligent systems that enhance user engagement and productivity. </p>
 
 
 - 🔭 I’m currently working on **Generative Ai Projects** and **Deep Learning.** 
