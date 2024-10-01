@@ -10,12 +10,12 @@
 
 
 
-<p>Hi! I'm an AI Engineer with a passion for developing cutting-edge machine learning solutions and optimizing AI models for real-world impact. With hands-on experience in image generation, natural language processing, and model deployment, I specialize in building intelligent systems that enhance user engagement and productivity. </p>
+<p>Hi! I'm an AI Engineer with a passion for developing cutting-edge Machine learning solutions and optimizing AI models for real-world impact. With hands-on experience in image generation, natural language processing, and model deployment, I specialize in building intelligent systems that enhance user engagement and productivity. </p>
 
 
 - 🔭 I’m currently working on **Generative Ai Projects** and **Deep Learning.** 
   
-- 💬 Ask me about **Data Science, Machine Learning, NLP, Data Analysis, Python**
+- 💬 Ask me about **Generative AI, Machine Learning, NLP, LLMs, Python**
 - 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
 * 📝 Portfolio Website --> https://prajwalkrishna.netlify.app/
 * 📝 Blogs --> https://medium.com/@praj2408
@@ -31,10 +31,12 @@
 
 # Skills:
 **Core Skills**:
-LLMs, Machine Learning, MLOps, Deep Learning, NLP, Data Science
+LLMs, Generative AI, Machine Learning, Deep Learning, NLP, Data Science
 
 **Tech Stack**
-Scikit-Learn, TensorFlow, Python, MySQL, Docker, GitHub Actions, Flask, Streamlit, Amazon AWS
+PyTorch, TensorFlow, Scikit-Learn, Transformers, LangChain, Llama-index, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs
+
+Vector Databases, MySQL, Dockers, GitHub Actions, FastAPI, Flask, AWS, GCP
 
 
 # GitHub Stats:
