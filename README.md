@@ -10,12 +10,12 @@
 
 
 
-<p>Hi! I'm an AI Engineer with a passion for developing cutting-edge AI solutions and optimizing Large Language models for real-world impact. With hands-on experience in RAG, Agentic Systems, and MLOps, I specialize in building intelligent systems that enhance user engagement and productivity. </p>
+<p>Hi! I'm an AI Engineer with 1.2 Years of Experience developing cutting-edge AI solutions and optimizing Large Language models for real-world impact. With hands-on experience in RAG, Agentic Systems, Machine Learning and MLOps, I specialize in building intelligent systems that enhance user engagement and productivity at scale. </p>
 
 
-- 🔭 I’m currently working on **Generative Ai Projects** and **Deep Learning.** 
+- 🔭 I’m currently working on **Gen AI Systems** and **Large Language Models.** 
   
-- 💬 Ask me about **Generative AI, LLMs, Machine Learning, NLP, Python**
+- 💬 Ask me about **Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning Etc**
 - 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
 * 📝 Portfolio Website --> https://prajwalkrishna.netlify.app/
 * 📝 Blogs --> https://medium.com/@praj2408
@@ -36,7 +36,7 @@ LLMs, Generative AI, Machine Learning, Deep Learning, NLP, Data Science
 **Tech Stack**
 PyTorch, TensorFlow, LangChain, Llama-index, Scikit-Learn, Transformers, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs
 
-Vector Databases, MySQL, Dockers, GitHub Actions, FastAPI, Flask, AWS, GCP
+Vector Databases, MySQL, Dockers, Airflow GitHub Actions, FastAPI, Flask, AWS, GCP
 
 
 # GitHub Stats:
