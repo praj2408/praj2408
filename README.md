@@ -13,11 +13,9 @@
 <p>Hi! I'm an AI Engineer with 1.2 Years of Experience developing cutting-edge AI solutions and optimizing Large Language models for real-world impact. With hands-on experience in RAG, Agentic Systems, Machine Learning and MLOps, I specialize in building intelligent systems that enhance user engagement and productivity at scale. </p>
 
 
-- 🔭 I’m currently working on **Gen AI Systems** and **Large Language Models.** 
-  
-- 💬 Ask me about **Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning Etc**
-- 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
-* 📝 Portfolio Website --> https://prajwalkrishna.netlify.app/
+* 🔭 I’m currently working on **Gen AI Systems** and **Large Language Models.** 
+* 💬 Ask me about **Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning Etc**
+* 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
 * 📝 Blogs --> https://medium.com/@praj2408
   
 - 📫 How to reach me: --> 
