@@ -55,15 +55,6 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 - Data Engineering & Workflow Automation
 
 # GitHub Stats:
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=default&hide_border=false)<br/> -->
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats) -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats)-->
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408&mode=weekly)](https://git.io/streak-stats)
 
-<!--![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=praj2408&theme=vue) -->
-
-
-
-[![](https://visitcount.itsvg.in/api?id=praj2408&icon=5&color=3)](https://visitcount.itsvg.in)    
