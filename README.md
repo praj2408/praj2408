@@ -45,7 +45,7 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 - **Database & Infrastructure:** Vector Databases, MySQL  
 - **Containerization & Orchestration:** Dockers, Airflow, GitHub Actions  
 - **Web Frameworks:** FastAPI, Flask  
-- **Cloud Platforms:** AWS, GCP  
+- **Cloud Platforms:** AWS, GCP, Azure  
 
 **AI Engineering:**  
 - End-to-end Machine Learning Pipeline Development  
