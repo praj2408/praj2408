@@ -10,32 +10,49 @@
 
 
 
-<p>Hi! I'm an AI Engineer with 1.2 Years of Experience developing cutting-edge AI solutions and optimizing Large Language models for real-world impact. With hands-on experience in RAG, Agentic Systems, Machine Learning and MLOps, I specialize in building intelligent systems that enhance user engagement and productivity at scale. </p>
+<p>Hi there! I'm an AI Engineer with 1.6 years of experience designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
+
+I’m passionate about collaborative projects and continuously learning new tools and techniques to stay at the forefront of technology. Whether it’s building cutting-edge neural networks or diving into data analytics, I’m always ready to tackle new challenges.
+
+Feel free to explore my repositories and get in touch if you’d like to connect or collaborate on exciting AI projects!</p>
 
 
-* 🔭 I’m currently working on **Gen AI Systems** and **Large Language Models.** 
-* 💬 Ask me about **Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning Etc**
-* 📝 Linkedin --> https://www.linkedin.com/in/prajwalkrishna/
-* 📝 Blogs --> https://medium.com/@praj2408
-  
-- 📫 How to reach me: --> 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrpark2408)
+- 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
+- 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and more.
+- 📝 **LinkedIn:** [prajwalkrishna](https://www.linkedin.com/in/prajwalkrishna/)
+- 📝 **Blogs:** [praj2408 on Medium](https://medium.com/@praj2408)
+
+- 📫 **Get in Touch:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrpark2408)
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <!-- <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
 
+# Skills
 
-# Skills:
-**Core Skills**:
-LLMs, Generative AI, Machine Learning, Deep Learning, NLP, Data Science
+**Core Skills:**  
+- Large Language Models (LLMs)  
+- Generative AI  
+- Machine Learning  
+- Deep Learning  
+- Natural Language Processing (NLP)  
+- Data Science  
 
-**Tech Stack**
-PyTorch, TensorFlow, LangChain, Llama-index, Scikit-Learn, Transformers, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs
+**Tech Stack:**  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers  
+- **AI & NLP Tools:** LangChain, Llama-Index, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs  
+- **Database & Infrastructure:** Vector Databases, MySQL  
+- **Containerization & Orchestration:** Dockers, Airflow, GitHub Actions  
+- **Web Frameworks:** FastAPI, Flask  
+- **Cloud Platforms:** AWS, GCP  
 
-Vector Databases, MySQL, Dockers, Airflow GitHub Actions, FastAPI, Flask, AWS, GCP
-
+**AI Engineering:**  
+- End-to-end Machine Learning Pipeline Development  
+- Model Deployment & Scalability  
+- MLOps & CI/CD for AI Systems  
+- Performance Optimization & Monitoring  
+- Data Engineering & Workflow Automation
 
 # GitHub Stats:
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=default&hide_border=false)<br/> -->
