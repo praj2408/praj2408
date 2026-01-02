@@ -10,7 +10,7 @@
 
 
 
-<p>Hi there! I'm an AI Engineer with 1.6 years of experience designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
+<p>Hi there! I'm an AI Engineer with 2 years of experience designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
 
 I’m passionate about collaborative projects and continuously learning new tools and techniques to stay at the forefront of technology. Whether it’s building cutting-edge neural networks or diving into data analytics, I’m always ready to tackle new challenges.
 
@@ -48,11 +48,11 @@ Feel free to explore my repositories and get in touch if you’d like to connect
 - **Cloud Platforms:** AWS, GCP, Azure  
 
 **AI Engineering:**  
-- End-to-end Machine Learning Pipeline Development  
+- End-to-end GenAI / ML Pipeline Development  
 - Model Deployment & Scalability  
-- MLOps & CI/CD for AI Systems  
+- AIOps & CI/CD for AI Systems  
 - Performance Optimization & Monitoring  
-- Data Engineering & Workflow Automation
+- System Design & Workflow Automation
 
 # GitHub Stats:
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats) -->
