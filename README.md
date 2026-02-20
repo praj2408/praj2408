@@ -10,11 +10,9 @@
 
 
 
-<p>Hi there! I'm an AI Engineer with 2 years of experience designing and deploying machine learning solutions that drive real-world impact. My journey has taken me from data preprocessing and model training to developing scalable applications powered by deep learning and AI. I enjoy exploring the latest research, optimizing models for performance, and translating complex problems into innovative, efficient solutions.
+<p>Hi, I’m an AI Engineer with 3+ years of experience building scalable, high-impact AI and Machine Learning solutions at Ascendion. I specialize in transforming complex problems into intelligent, production-ready systems — from data preprocessing and model training to deploying deep learning applications at scale.
 
-I’m passionate about collaborative projects and continuously learning new tools and techniques to stay at the forefront of technology. Whether it’s building cutting-edge neural networks or diving into data analytics, I’m always ready to tackle new challenges.
-
-Feel free to explore my repositories and get in touch if you’d like to connect or collaborate on exciting AI projects!</p>
+I’m passionate about continuous learning, experimenting with emerging AI technologies, and collaborating on projects that push boundaries. Whether it’s architecting neural networks, fine-tuning performance, or building end-to-end ML pipelines, I thrive on solving challenging problems efficiently and creatively.</p>
 
 
 - 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
