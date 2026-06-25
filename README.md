@@ -10,7 +10,7 @@
 
 
 
-<p>Hi, I’m an AI Engineer with 3+ years of experience building scalable, high-impact AI and Machine Learning solutions. I specialize in transforming complex problems into intelligent, production-ready systems from data preprocessing and model training to deploying deep learning applications at scale.
+<p>Hi, I’m an AI Engineer with 3+ years of experience building scalable, high-impact AI, Machine Learning, and Agentic AI systems. I specialize in transforming complex problems into intelligent, production-ready solutions—from data preprocessing and model training to designing autonomous AI agents, orchestrating LLM-powered workflows, and deploying deep learning applications at scale.
 
 I’m passionate about continuous learning, experimenting with emerging AI technologies, and collaborating on projects that push boundaries. Whether it’s architecting neural networks, fine-tuning performance, or building end-to-end ML pipelines, I thrive on solving challenging problems efficiently and creatively.</p>
 
