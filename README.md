@@ -1,57 +1,102 @@
-<!DOCTYPE html>   
-<html lang="en"> 
-<head>
-    <meta charset="UTF-8">  
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
- 
-<body>
-    <h1 align="center">Hi 👋, I'm Prajwal Krishna</h1>
+<h1 align="center">Hi, I'm Prajwal Krishna 👋</h1>
+<h3 align="center">AI Engineer | Building Scalable GenAI, Agentic & LLM-Powered Systems</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Architecting+Autonomous+AI+Agents;Building+Production-Ready+RAG+Systems;Fine-Tuning+LLMs+for+Real-World+Impact;Turning+Complex+Problems+into+Intelligent+Solutions" alt="Typing SVG" />
+</p>
 
-<p>Hi, I’m an AI Engineer with 3+ years of experience building scalable, high-impact AI, Machine Learning, and Agentic AI systems. I specialize in transforming complex problems into intelligent, production-ready solutions—from data preprocessing and model training to designing autonomous AI agents, orchestrating LLM-powered workflows, and deploying deep learning applications at scale.
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwalkrishna/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@praj2408">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I’m passionate about continuous learning, experimenting with emerging AI technologies, and collaborating on projects that push boundaries. Whether it’s architecting neural networks, fine-tuning performance, or building end-to-end ML pipelines, I thrive on solving challenging problems efficiently and creatively.</p>
+---
 
+### 🚀 About Me
 
-- 🔭 **Current Focus:** Working on cutting-edge Gen AI Systems and Large Language Models.
-- 💬 **Ask Me About:** Gen AI, Agentic Systems, RAG, Machine Learning, Deep Learning, and more.
-- 📝 **LinkedIn:** [prajwalkrishna](https://www.linkedin.com/in/prajwalkrishna/)
-- 📝 **Blogs:** [praj2408 on Medium](https://medium.com/@praj2408)
+I'm an **AI Engineer with 3+ years of experience** designing and shipping scalable, high-impact AI, Machine Learning, and Agentic AI systems. I specialize in turning complex, ambiguous problems into intelligent, production-ready solutions — from data preprocessing and model training to orchestrating multi-agent LLM workflows and deploying deep learning applications at scale.
 
-- 📫 **Get in Touch:**
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&tf=0&to=prajwalgbdr03@gmail.com)  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mrpark2408)
+- 🔭 **Currently working on:** Cutting-edge GenAI systems and LLM-powered applications
+- 🌱 **Currently exploring:** Agentic orchestration frameworks and advanced RAG architectures
+- 💬 **Ask me about:** GenAI, Agentic Systems, RAG, Machine Learning, Deep Learning
+- ⚡ **Fun fact:** I thrive on architecting neural networks and fine-tuning them until they *just work*
+- 📝 **I write about AI/ML on [Medium](https://medium.com/@praj2408)**
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+---
 
-<!-- <img class="align" align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
+### 🛠️ Tech Stack
 
-# Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+</p>
 
-**Core Skills:**  
-- Large Language Models (LLMs)  
-- Generative AI - Agents and RAG
-- Machine Learning  
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Data Science  
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CrewAI-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20DBs-4B8BBE?style=flat-square" />
+</p>
 
-**Tech Stack:**  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Scikit-Learn, Transformers  
-- **AI & NLP Tools:** LangChain, Llama-Index, OpenAI API, RAG, Fine-tuning, Agents, Crew AI, Open source LLMs  
-- **Database & Infrastructure:** Vector Databases, MySQL  
-- **Containerization & Orchestration:** Dockers, Airflow, GitHub Actions  
-- **Web Frameworks:** FastAPI, Flask  
-- **Cloud Platforms:** AWS, GCP, Azure  
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
 
-**AI Engineering:**  
-- End-to-end GenAI / ML Pipeline Development  
-- Model Deployment & Scalability  
-- AIOps & CI/CD for AI Systems  
-- Performance Optimization & Monitoring  
-- System Design & Workflow Automation
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+</p>
 
-# GitHub Stats:
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=praj2408)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=praj2408&mode=weekly)](https://git.io/streak-stats)
+---
 
+### 🧠 What I Build
+
+| Area | What I Do |
+|---|---|
+| **Agentic AI Systems** | Design autonomous, multi-agent workflows using CrewAI and custom orchestration for real-world task automation |
+| **RAG Pipelines** | Build production-grade retrieval-augmented generation systems with vector databases, hybrid search, and re-ranking |
+| **LLM Fine-Tuning** | Adapt open-source and proprietary LLMs for domain-specific performance and cost efficiency |
+| **MLOps & AIOps** | Ship end-to-end pipelines with CI/CD, monitoring, and scalable deployment on AWS/GCP/Azure |
+| **Deep Learning** | Architect and train neural networks for NLP and applied ML use cases |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=praj2408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praj2408&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prajwalkrishna/">LinkedIn</a> ·
+  <a href="https://medium.com/@praj2408">Medium Blog</a> ·
+  <a href="mailto:youremail@example.com">Email</a>
+</p>
+
+<p align="center"><i>Always open to collaborating on GenAI, Agentic AI, and applied ML projects.</i></p>
