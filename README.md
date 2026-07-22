@@ -50,6 +50,20 @@ I'm an **AI Engineer with 3+ years of experience** designing and shipping scalab
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/CrewAI-6E56CF?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/DSPy-FF6B6B?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/MCP-2E9EF7?style=flat-square" /> 
+  <img src="https://img.shields.io/badge/vLLM-FF4B4B?style=flat-square" /> 
+</p>
+
+
+
+<p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
@@ -83,10 +97,6 @@ I'm an **AI Engineer with 3+ years of experience** designing and shipping scalab
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praj2408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=praj2408&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 ---
