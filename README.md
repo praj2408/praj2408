@@ -42,14 +42,6 @@ I'm an **AI Engineer with 3+ years of experience** designing and shipping scalab
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/CrewAI-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20DBs-4B8BBE?style=flat-square" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" /> 
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square" /> 
   <img src="https://img.shields.io/badge/LlamaIndex-000000?style=flat-square" /> 
