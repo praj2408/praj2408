@@ -86,7 +86,6 @@ I'm an **AI Engineer with 3+ years of experience** designing and shipping scalab
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praj2408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=praj2408&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
