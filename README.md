@@ -21,7 +21,7 @@
 
 ### 🚀 About Me
 
-I'm an **AI Engineer with 3+ years of experience** designing and shipping scalable, high-impact AI, Machine Learning, and Agentic AI systems. I specialize in turning complex, ambiguous problems into intelligent, production-ready solutions — from data preprocessing and model training to orchestrating multi-agent LLM workflows and deploying deep learning applications at scale.
+I'm an **AI Engineer with 4+ years of experience** designing and shipping scalable, high-impact AI, Machine Learning, and Agentic AI systems. I specialize in turning complex, ambiguous problems into intelligent, production-ready solutions — from data preprocessing and model training to orchestrating multi-agent LLM workflows and deploying deep learning applications at scale.
 
 - 🔭 **Currently working on:** Cutting-edge GenAI systems and LLM-powered applications
 - 🌱 **Currently exploring:** Agentic orchestration frameworks and advanced RAG architectures
