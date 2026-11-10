@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Prajwal Krishna 👋</h1>
-<h3 align="center">AI Engineer | Building Scalable GenAI, Agentic & LLM-Powered Systems</h3>
+<h3 align="center">Senior AI Engineer | Building Scalable GenAI, Agentic & LLM-Powered Systems</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Architecting+Autonomous+AI+Agents;Building+Production-Ready+RAG+Systems;Fine-Tuning+LLMs+for+Real-World+Impact;Turning+Complex+Problems+into+Intelligent+Solutions" alt="Typing SVG" />
